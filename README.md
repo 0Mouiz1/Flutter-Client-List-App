@@ -1,5 +1,5 @@
 # 📲 Flutter Client Record Listing Application 
-  💡Does Mostly CRUD operation using SQlite for Local Storage
+  💡Does Mostly CRUD operation using SQlite for Local Data Storage
  
 
 ![Screenshot 2024-02-06 025127](https://github.com/0Mouiz1/Flutter-Client-List-App/assets/127435963/efcecbc4-b537-429a-ac98-e919f4a9f2f1)
